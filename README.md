@@ -54,3 +54,53 @@ _“Khi bàn tay trở thành ngôn ngữ”_
 ```bash
 git clone https://github.com/kdus09/AI-Hand-Suite-Privacy.git
 cd AI-Hand-Suite-Privacy
+2️⃣ Tạo môi trường ảo và cài thư viện
+python3.11 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+3️⃣ Chạy ứng dụng
+python app.py
+
+
+Nhấn ESC để thoát chương trình.
+
+🧾 Cấu trúc thư mục
+AI-Hand-Suite-Privacy/
+│
+├── app.py                # Menu chính
+├── communicator.py       # Nhận diện cử chỉ và phát âm
+├── painter.py            # Vẽ trong không gian
+├── gesture_control.py    # Điều khiển máy tính
+├── image_realizer.py     # AI tạo ảnh từ bản vẽ
+├── privacy_utils.py      # Làm mờ khuôn mặt
+├── requirements.txt
+└── README.md
+
+💾 Bản đầy đủ
+
+Nếu bạn muốn chạy ngay mà không cần cài thư viện, tải bản đóng gói tại:
+
+🔗 Download Full Version (Google Drive)
+
+🤝 Dự án hướng đến cộng đồng
+
+Công cụ được phát triển dành cho:
+
+👂 Người khiếm thính & khuyết tật – dễ dàng giao tiếp bằng cử chỉ
+
+🎨 Nhà sáng tạo nội dung – thể hiện ý tưởng bằng bàn tay
+
+🔬 Nhà nghiên cứu AI – Vision – mở rộng mô hình tương tác bằng cử chỉ
+
+📜 Giấy phép & liên hệ
+
+MIT License © 2025 – Phát triển bởi Khoi Le (kdus09)
+📧 Liên hệ hợp tác: khoidev@ai-labs.vn
+
+<div align="center">
+
+❤️ “Công nghệ không chỉ để thông minh hơn — mà để kết nối mọi người gần nhau hơn.”
+Made with 🤖 + 🖐️ + ❤️
+
+</div> ```
