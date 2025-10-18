@@ -98,9 +98,3 @@ Công cụ được phát triển dành cho:
 MIT License © 2025 – Phát triển bởi Le The Khoi (kdus09)
 📧 Liên hệ hợp tác: lethekhoi209@hotmail.com
 
-<div align="center">
-
-❤️ “Công nghệ không chỉ để thông minh hơn — mà để kết nối mọi người gần nhau hơn.”
-Made with 🤖 + 🖐️ + ❤️
-
-</div> ```
