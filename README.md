@@ -50,8 +50,8 @@ _“Khi bàn tay trở thành ngôn ngữ”_
 
 ## 🚀 Cài đặt và chạy thử
 
-### 1️⃣ Clone project
 ```bash
+1️⃣ Clone project
 git clone https://github.com/kdus09/AI-Hand-Suite-Privacy.git
 cd AI-Hand-Suite-Privacy
 2️⃣ Tạo môi trường ảo và cài thư viện
@@ -95,8 +95,8 @@ Công cụ được phát triển dành cho:
 
 📜 Giấy phép & liên hệ
 
-MIT License © 2025 – Phát triển bởi Khoi Le (kdus09)
-📧 Liên hệ hợp tác: khoidev@ai-labs.vn
+MIT License © 2025 – Phát triển bởi Le The Khoi (kdus09)
+📧 Liên hệ hợp tác: lethekhoi209@hotmail.com
 
 <div align="center">
 
